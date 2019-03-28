@@ -1,5 +1,7 @@
 {
- "products":[{
+  "posts": [
+   {
+   "id":1,
    "hextag": "5457465553534D4F4C453030303300000000000000000000",
    "tag": "TWFUSSMOLE0003",
    "name": "650W Tweenie (Full Single Scrim) (3)",
@@ -17,6 +19,7 @@
    "status": "In"
  },
  {
+   "id":2,
    "hextag": "5457465553534D4F4C453030303400000000000000000000",
    "tag": "TWFUSSMOLE0004",
    "name": "650W Tweenie (Full Single Scrim) (4)",
@@ -34,6 +37,7 @@
    "status": "In"
  },
  {
+   "id":3,
    "hextag": "545747464D4F4C4530303031000000000000000000000000",
    "tag": "TWGFMOLE0001",
    "name": "650W Tweenie (Gel Frame) (1)",
@@ -51,6 +55,7 @@
    "status": "In"
  },
  {
+   "id": 4,
    "hextag": "545747464D4F4C4530303032000000000000000000000000",
    "tag": "TWGFMOLE0002",
    "name": "650W Tweenie (Gel Frame) (2)",
@@ -68,6 +73,7 @@
    "status": "In"
  },
  {
+   "id":5,
    "hextag": "5457484644534D4F4C453030303100000000000000000000",
    "tag": "TWHFDSMOLE0001",
    "name": "650W Tweenie (Half Double Scrim) (1)",
@@ -83,22 +89,10 @@
    "order_code": "",
    "order_drop_off": "",
    "status": "In"
- },
- {
-   "hextag": "5457484644534D4F4C453030303200000000000000000000",
-   "tag": "TWHFDSMOLE0002",
-   "name": "650W Tweenie (Half Double Scrim) (2)",
-   "price": null,
-   "notes": "Circular 5-1/8in diameter half double scrim for 650w Mole Richardson Tweenie fresnel. Red border.&nbsp;",
-   "created": "Jan. 31, 2018",
-   "repair": 1,
-   "bought_at": "",
-   "location": "Los Angeles, CA",
-   "printed": "",
-   "tag_type": 1,
-   "tag_type_name": "RFID",
-   "order_code": "",
-   "order_drop_off": "",
-   "status": "In"
  }
-]}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
